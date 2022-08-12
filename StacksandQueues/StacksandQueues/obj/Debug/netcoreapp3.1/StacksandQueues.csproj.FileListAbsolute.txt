@@ -1,0 +1,14 @@
+G:\LPF\Day14\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.exe
+G:\LPF\Day14\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.deps.json
+G:\LPF\Day14\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.runtimeconfig.json
+G:\LPF\Day14\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.runtimeconfig.dev.json
+G:\LPF\Day14\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.dll
+G:\LPF\Day14\StacksandQueues\StacksandQueues\bin\Debug\netcoreapp3.1\StacksandQueues.pdb
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.csproj.AssemblyReference.cache
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.GeneratedMSBuildEditorConfig.editorconfig
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.AssemblyInfoInputs.cache
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.AssemblyInfo.cs
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.csproj.CoreCompileInputs.cache
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.dll
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.pdb
+G:\LPF\Day14\StacksandQueues\StacksandQueues\obj\Debug\netcoreapp3.1\StacksandQueues.genruntimeconfig.cache
